@@ -44,7 +44,7 @@
 
 #pragma mark - UICollectionViewDatasource Methods
 - (NSInteger)collectionView:(UICollectionView *)collectionView numberOfItemsInSection:(NSInteger)section {
-    return 14;
+    return self.images.count;
 }
 
 - (UICollectionViewCell *)collectionView:(UICollectionView *)collectionView cellForItemAtIndexPath:(NSIndexPath *)indexPath {
@@ -53,6 +53,11 @@
     //get image name and assign
     NSString* imageName = [self.images objectAtIndex:indexPath.item];
     cell.image = [UIImage imageNamed:imageName];
+    
+    //set offset accordingly
+    CGFloat yOffset = ((self.parallaxCollectionView.contentOffset.y - cell.frame.origin.y) / IMAGE_HEIGHT) * IMAGE_OFFSET_SPEED;
+    cell.imageOffset = CGPointMake(0.0f, yOffset);
+
     return cell;
 }
 
@@ -62,8 +67,8 @@
         
         if([subview isKindOfClass:[MJCollectionViewCell class]]) {
             MJCollectionViewCell* view = (MJCollectionViewCell*) subview;
-            CGFloat yOffset = ((self.parallaxCollectionView.contentOffset.y - view.frame.origin.y) / IMAGE_HEIGHT) * 10;
-            view.imageOffset = CGPointMake(0.0f, yOffset); // Add padding to get some vertical "peek"
+            CGFloat yOffset = ((self.parallaxCollectionView.contentOffset.y - view.frame.origin.y) / IMAGE_HEIGHT) * IMAGE_OFFSET_SPEED;
+            view.imageOffset = CGPointMake(0.0f, yOffset);
         }
     }
 }
