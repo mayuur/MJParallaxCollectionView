@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9FDD1B15-F9AD-4BA0-98CE-BBC8D3DB5ED8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ParallaxImages</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7C5E051F-29B0-43F9-A728-E86161482FF1</key>
+		<string>https://github.com/mayuur/MJParallaxCollectionView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ParallaxImages/ParallaxImages.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7C5E051F-29B0-43F9-A728-E86161482FF1</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mayuur/MJParallaxCollectionView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7C5E051F-29B0-43F9-A728-E86161482FF1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7C5E051F-29B0-43F9-A728-E86161482FF1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MJParallaxCollectionView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
