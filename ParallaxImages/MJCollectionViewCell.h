@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #define IMAGE_HEIGHT 200
-#define IMAGE_OFFSET_SPEED 10
+#define IMAGE_OFFSET_SPEED 20
 
 @interface MJCollectionViewCell : UICollectionViewCell
 

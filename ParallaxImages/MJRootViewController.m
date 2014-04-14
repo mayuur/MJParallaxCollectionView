@@ -73,7 +73,4 @@
     }
 }
 
-#pragma mark - UICollectionViewDelegate Methods
-
-
 @end

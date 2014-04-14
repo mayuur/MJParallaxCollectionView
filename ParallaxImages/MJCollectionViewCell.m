@@ -46,6 +46,7 @@
     
     // Add image subview
     self.MJImageView = [[UIImageView alloc] initWithFrame:CGRectMake(self.bounds.origin.x, self.bounds.origin.y, self.bounds.size.width, IMAGE_HEIGHT)];
+    self.MJImageView.backgroundColor = [UIColor redColor];
     self.MJImageView.contentMode = UIViewContentModeScaleAspectFill;
     self.MJImageView.clipsToBounds = NO;
     [self addSubview:self.MJImageView];
