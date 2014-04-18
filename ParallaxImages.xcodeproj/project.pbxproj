@@ -51,6 +51,7 @@
 		4DF3F42C18EABE52003094A8 /* image013.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4DF3F41018EABE52003094A8 /* image013.jpg */; };
 		4DF3F42F18EAC393003094A8 /* MJCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DF3F42E18EAC393003094A8 /* MJCollectionViewCell.m */; };
 		4DF3F43018EAC393003094A8 /* MJCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DF3F42E18EAC393003094A8 /* MJCollectionViewCell.m */; };
+		77391EC41900FAC90051883E /* Screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = 77391EC31900FAC90051883E /* Screenshot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -99,6 +100,7 @@
 		4DF3F41018EABE52003094A8 /* image013.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image013.jpg; sourceTree = "<group>"; };
 		4DF3F42D18EAC393003094A8 /* MJCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJCollectionViewCell.h; sourceTree = "<group>"; };
 		4DF3F42E18EAC393003094A8 /* MJCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJCollectionViewCell.m; sourceTree = "<group>"; };
+		77391EC31900FAC90051883E /* Screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,6 +130,7 @@
 		4DF3F3C118EAABA7003094A8 = {
 			isa = PBXGroup;
 			children = (
+				77391EC31900FAC90051883E /* Screenshot.png */,
 				4DF3F3D318EAABA7003094A8 /* ParallaxImages */,
 				4DF3F3F218EAABA7003094A8 /* ParallaxImagesTests */,
 				4DF3F3CC18EAABA7003094A8 /* Frameworks */,
@@ -316,6 +319,7 @@
 				4DF3F42518EABE52003094A8 /* image010.jpg in Resources */,
 				4DF3F41718EABE52003094A8 /* image003.jpg in Resources */,
 				4DF3F3E118EAABA7003094A8 /* Main.storyboard in Resources */,
+				77391EC41900FAC90051883E /* Screenshot.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
