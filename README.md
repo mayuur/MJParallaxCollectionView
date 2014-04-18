@@ -14,13 +14,14 @@ Optionally, you can change the animation speed for the images or the height of t
 
 Thanks!
 
-Follow me or ask questions or just say HI! at Twitter : [!@mayuur](https://twitter.com/mayuur)
+Follow me or ask questions or just say HI! at Twitter : [@mayuur](https://twitter.com/mayuur)
 
 Watch the demo below 
 
 [![Video](https://raw.githubusercontent.com/mayuur/MJParallaxCollectionView/master/Screenshot.png)](https://www.youtube.com/watch?v=1K8w1M6FL8k&feature=youtu.be)
 
-Photos from ![Unsplash](http://unsplash.com/)
+
+Photos from [Unsplash](http://unsplash.com/)
 
 
 
