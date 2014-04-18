@@ -14,7 +14,7 @@ Optionally, you can change the animation speed for the images or the height of t
 
 Thanks!
 
-Follow me or ask questions or just say HI! at Twitter : <a href="https://twitter.com/mayuur" target="_blank">@mayuur</a>
+Follow me or ask questions or just say Hi! at Twitter : <a href="https://twitter.com/mayuur" target="_blank">@mayuur</a>
 
 Watch the demo below 
 
