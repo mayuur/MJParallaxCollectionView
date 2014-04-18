@@ -18,7 +18,7 @@ You can always follow me or just say HI! at Twitter : @mayuur
 
 Watch the demo below 
 
-[![Video](https://github.com/mayuur/MJParallaxCollectionView/blob/master/Screenshot.png)](https://www.youtube.com/watch?v=1K8w1M6FL8k&feature=youtu.be)
+[![Video](https://raw.githubusercontent.com/mayuur/MJParallaxCollectionView/master/Screenshot.png)](https://www.youtube.com/watch?v=1K8w1M6FL8k&feature=youtu.be)
 
 
 
