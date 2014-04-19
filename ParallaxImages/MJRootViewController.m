@@ -63,13 +63,9 @@
 
 #pragma mark - UIScrollViewdelegate methods
 - (void)scrollViewDidScroll:(UIScrollView *)scrollView {
-    for(id subview in [self.parallaxCollectionView subviews]) {
-        
-        if([subview isKindOfClass:[MJCollectionViewCell class]]) {
-            MJCollectionViewCell* view = (MJCollectionViewCell*) subview;
-            CGFloat yOffset = ((self.parallaxCollectionView.contentOffset.y - view.frame.origin.y) / IMAGE_HEIGHT) * IMAGE_OFFSET_SPEED;
-            view.imageOffset = CGPointMake(0.0f, yOffset);
-        }
+    for(MJCollectionViewCell *view in self.parallaxCollectionView.visibleCells) {
+        CGFloat yOffset = ((self.parallaxCollectionView.contentOffset.y - view.frame.origin.y) / IMAGE_HEIGHT) * IMAGE_OFFSET_SPEED;
+        view.imageOffset = CGPointMake(0.0f, yOffset);
     }
 }
 
