@@ -24,4 +24,7 @@ Watch the demo below
 Photos from <a href="http://unsplash.com/" target="_blank">Unsplash</a>
 
 
+## License
+
+Usage is provided under the [MIT License](http://opensource.org/licenses/mit-license.php).  See LICENSE for the full details.
 
