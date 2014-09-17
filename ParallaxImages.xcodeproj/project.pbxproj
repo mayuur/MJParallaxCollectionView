@@ -31,8 +31,8 @@
 		4DF3F41818EABE52003094A8 /* image003.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4DF3F40618EABE52003094A8 /* image003.jpg */; };
 		4DF3F41918EABE52003094A8 /* image004.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4DF3F40718EABE52003094A8 /* image004.jpg */; };
 		4DF3F41A18EABE52003094A8 /* image004.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4DF3F40718EABE52003094A8 /* image004.jpg */; };
-		4DF3F41B18EABE52003094A8 /* image005.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4DF3F40818EABE52003094A8 /* image005.JPG */; };
-		4DF3F41C18EABE52003094A8 /* image005.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4DF3F40818EABE52003094A8 /* image005.JPG */; };
+		4DF3F41B18EABE52003094A8 /* image005.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4DF3F40818EABE52003094A8 /* image005.jpg */; };
+		4DF3F41C18EABE52003094A8 /* image005.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4DF3F40818EABE52003094A8 /* image005.jpg */; };
 		4DF3F41D18EABE52003094A8 /* image006.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4DF3F40918EABE52003094A8 /* image006.jpg */; };
 		4DF3F41E18EABE52003094A8 /* image006.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4DF3F40918EABE52003094A8 /* image006.jpg */; };
 		4DF3F41F18EABE52003094A8 /* image007.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4DF3F40A18EABE52003094A8 /* image007.jpg */; };
@@ -89,7 +89,7 @@
 		4DF3F40518EABE52003094A8 /* image002.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image002.jpg; sourceTree = "<group>"; };
 		4DF3F40618EABE52003094A8 /* image003.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image003.jpg; sourceTree = "<group>"; };
 		4DF3F40718EABE52003094A8 /* image004.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image004.jpg; sourceTree = "<group>"; };
-		4DF3F40818EABE52003094A8 /* image005.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image005.JPG; sourceTree = "<group>"; };
+		4DF3F40818EABE52003094A8 /* image005.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image005.jpg; sourceTree = "<group>"; };
 		4DF3F40918EABE52003094A8 /* image006.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image006.jpg; sourceTree = "<group>"; };
 		4DF3F40A18EABE52003094A8 /* image007.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image007.jpg; sourceTree = "<group>"; };
 		4DF3F40B18EABE52003094A8 /* image008.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image008.jpg; sourceTree = "<group>"; };
@@ -212,7 +212,7 @@
 				4DF3F40518EABE52003094A8 /* image002.jpg */,
 				4DF3F40618EABE52003094A8 /* image003.jpg */,
 				4DF3F40718EABE52003094A8 /* image004.jpg */,
-				4DF3F40818EABE52003094A8 /* image005.JPG */,
+				4DF3F40818EABE52003094A8 /* image005.jpg */,
 				4DF3F40918EABE52003094A8 /* image006.jpg */,
 				4DF3F40A18EABE52003094A8 /* image007.jpg */,
 				4DF3F40B18EABE52003094A8 /* image008.jpg */,
@@ -270,7 +270,7 @@
 			isa = PBXProject;
 			attributes = {
 				CLASSPREFIX = MJ;
-				LastUpgradeCheck = 0500;
+				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = sky;
 				TargetAttributes = {
 					4DF3F3EA18EAABA7003094A8 = {
@@ -313,7 +313,7 @@
 				4DF3F41D18EABE52003094A8 /* image006.jpg in Resources */,
 				4DF3F41918EABE52003094A8 /* image004.jpg in Resources */,
 				4DF3F41518EABE52003094A8 /* image002.jpg in Resources */,
-				4DF3F41B18EABE52003094A8 /* image005.JPG in Resources */,
+				4DF3F41B18EABE52003094A8 /* image005.jpg in Resources */,
 				4DF3F41318EABE52003094A8 /* image001.jpg in Resources */,
 				4DF3F41118EABE52003094A8 /* image000.jpg in Resources */,
 				4DF3F42518EABE52003094A8 /* image010.jpg in Resources */,
@@ -332,7 +332,7 @@
 				4DF3F42C18EABE52003094A8 /* image013.jpg in Resources */,
 				4DF3F42818EABE52003094A8 /* image011.jpg in Resources */,
 				4DF3F42A18EABE52003094A8 /* image012.jpg in Resources */,
-				4DF3F41C18EABE52003094A8 /* image005.JPG in Resources */,
+				4DF3F41C18EABE52003094A8 /* image005.jpg in Resources */,
 				4DF3F42218EABE52003094A8 /* image008.jpg in Resources */,
 				4DF3F41218EABE52003094A8 /* image000.jpg in Resources */,
 				4DF3F41A18EABE52003094A8 /* image004.jpg in Resources */,
@@ -410,7 +410,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -449,7 +448,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -507,7 +505,6 @@
 		4DF3F40018EAABA7003094A8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/ParallaxImages.app/ParallaxImages";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
@@ -530,7 +527,6 @@
 		4DF3F40118EAABA7003094A8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/ParallaxImages.app/ParallaxImages";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
