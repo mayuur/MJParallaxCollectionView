@@ -11,17 +11,5 @@
 #define IMAGE_OFFSET_SPEED 25
 
 @interface MJCollectionViewCell : UICollectionViewCell
-
-/*
- 
- image used in the cell which will be having the parallax effect
- 
- */
-@property (nonatomic, strong, readwrite) UIImage *image;
-
-/*
- Image will always animate according to the imageOffset provided. Higher the value means higher offset for the image
- */
-@property (nonatomic, assign, readwrite) CGPoint imageOffset;
-
+@property (nonatomic, strong, readwrite) __block UIImageView *imageView;
 @end
